@@ -1,2 +1,2 @@
 # anomaly_deployment
-For deploying tensorflow models 
+For deploying tensorflow models to the android app. 
